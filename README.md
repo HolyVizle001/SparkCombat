@@ -11,7 +11,7 @@
 * **Highly Configurable:** Not to mention, you may config and change everything listed above!
 
 ## 🛠️ Installation
-1. Download the latest `.jar` from the [Releases](link-to-your-github-releases) page.
+1. Download the latest `.jar` from the [Releases](https://github.com/HolyVizle001/SparkCombat/releases/tag/Release) page.
 2. Place it in your server's `/plugins` folder.
 3. Ensure you have **WorldGuard** installed for region-based features.
 4. Restart your server.
