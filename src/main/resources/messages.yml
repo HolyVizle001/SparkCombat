@@ -1,0 +1,22 @@
+# ==============================
+#      SparkCombat Messages
+# ==============================
+# Use & for color codes.
+# Placeholders:
+#   {player} - the other player's name
+#   {time}   - seconds remaining in combat
+
+messages:
+  tagged:       '&b&lCOMBAT &8» &cYou are attacking &f{player}&c!'
+  out-of-combat: '&b&lCOMBAT &8» &aYou are no longer in combat. Safe to log out.'
+  combat-log:   '&b&lCOMBAT &8» &c{player} &7combat logged!'
+  pearl-blocked: '&b&lCOMBAT &8» &cYou cannot use Ender Pearls while in combat&8!'
+
+scoreboard:
+  title: '&b&lsparkvanilla.net'
+  lines:
+    - ''
+    - '&c&lYOU ARE IN COMBAT'
+    - '&b&lTIME LEFT: &f{time}s'
+    - '&c&lDO NOT LOG OUT'
+    - ''

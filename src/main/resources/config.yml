@@ -1,0 +1,16 @@
+# ==============================
+#       SparkCombat Config
+# ==============================
+
+combat:
+  # How many seconds until a player leaves combat after their last hit
+  duration: 15
+
+  # Kill players who log out while in combat
+  kill-on-logout: true
+
+  # Block ender pearl use while in combat inside protected regions
+  block-pearl-in-spawn: true
+
+  # Tag players who are hit by an end crystal explosion
+  tag-on-crystal: true

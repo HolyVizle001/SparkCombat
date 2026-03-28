@@ -1,0 +1,11 @@
+name: SparkCombat
+version: '${project.version}'
+main: net.sparkvanilla.combat.SparkCombat
+api-version: '1.21'
+description: Combat tag plugin for SparkVanilla
+authors: [ SparkVanilla ]
+
+commands:
+  combat:
+    description: Combat tag commands
+    usage: /<command>
