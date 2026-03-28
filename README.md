@@ -8,7 +8,7 @@
 * **Anti-Escape System:** Prevents players from pearling into spawn/safe-zones while combat-tagged.
 * **Combat Log Protection:** Automatically penalizes players who disconnect during a fight.
 * **World-Specific Loot:** Custom inventory dropping logic specifically for the main world.
-* **Highly Configurable:** Not to mention, you may config and change everything listed over!
+* **Highly Configurable:** Not to mention, you may config and change everything listed above!
 
 ## 🛠️ Installation
 1. Download the latest `.jar` from the [Releases](link-to-your-github-releases) page.
